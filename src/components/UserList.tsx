@@ -1,4 +1,4 @@
-import type { UserListProps } from "../types/ComponentProps"
+import type { UserListProps } from "../types/Props"
 
 const SkeletonCard = () => (
   <div className="rounded-xl overflow-hidden bg-gray-800 animate-pulse">

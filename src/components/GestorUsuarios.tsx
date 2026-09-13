@@ -1,4 +1,4 @@
-import { useUsers } from "../hooks/useUsers"
+import { useUsers } from "../hooks/useUser"
 import UserForm from "./UserForm"
 import UserList from "./UserList"
 

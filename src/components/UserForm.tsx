@@ -1,4 +1,4 @@
-import type { UserFormProps } from "../types/ComponentProps"
+import type { UserFormProps } from "../types/Props"
 
 const DEFAULT_AVATAR = "https://placehold.co/600x400/6c63ff/fff?text=Avatar"
 
